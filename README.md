@@ -10,4 +10,3 @@ A modern movie-tracking web app landing page built with HTML and CSS.
 
 🚀 Perfect as a starting point for a film tracking/social platform project
 
-hey! I'm just testing the Git on VS Code...
